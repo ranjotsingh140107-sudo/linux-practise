@@ -14,3 +14,7 @@
   This task will include basic linux commands like **mkdir** , **cd**
 
  - create a directory of `student` name
+
+   ```
+   mkdir ranjot
+   ```
