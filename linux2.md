@@ -6,7 +6,6 @@
   useradd ranjot
   ```
 - to create a new group name
-  
   ```
   groupadd
   ```
